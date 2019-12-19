@@ -12,13 +12,13 @@ The main two function to parse the .xml files and present bayesian networks are 
 We represent the Bayesian networks as a tree. A BayesianNet class has nodes, variables, variable_values and two methods variable_node() and add(). Nodes are represented using a class named BayesNode. Variable_values are set to a list [True, False] in this project. variable_node() is a method to get the node of a specific variable. add() is a method to add node to the tree. The networks presentation of the three testing cases are as below.
 
 (1) aima-alarm
-![image](https://github.com/ChloeZPan/Uncertain-Inference/blob/master/image/figure2.PNG)
+![image](https://github.com/ChloeZPan/Uncertain-Inference/blob/master/figure2.PNG)
 Figure 2: Representation of AIAM-Alarm Networks
 (2) wet-grass
-![image](https://github.com/ChloeZPan/Uncertain-Inference/blob/master/image/figure3.PNG)
+![image](https://github.com/ChloeZPan/Uncertain-Inference/blob/master/figure3.PNG)
 Figure 3: Representation of Wet-grass Networks
 (3) dog-problem
-![image](https://github.com/ChloeZPan/Uncertain-Inference/blob/master/image/figure4.PNG)
+![image](https://github.com/ChloeZPan/Uncertain-Inference/blob/master/figure4.PNG)
 Figure 4: Representation of Dog-problem Networks
 
 ## 3 Exact Inference
