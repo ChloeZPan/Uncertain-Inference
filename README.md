@@ -3,7 +3,7 @@
 In this project, we implemented some of the algorithms of uncertain inference. We parsed .xml files and represented Bayesian networks with tree structure. For exact inference, we implemented the “inference by enumeration” algorithm. For approximate inference, we implemented the rejection sampling algorithm. In addition, we used three sample networks to test our code.
 
 # 1 Architecture
-![image](https://github.com/ChloeZPan/Uncertain-Inference/blob/master/image/figure1.PNG)
+![image](https://github.com/ChloeZPan/Uncertain-Inference/blob/master/figure1.PNG)
 Figure 1: Architecture of the program
 
 # 2 XMLBIF Parsing and Network Representation
